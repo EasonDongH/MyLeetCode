@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\3. private\leetcode\leetcode easy\leetcode_easy\705. design hashset\main.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+d:\3. private\leetcode\leetcode easy\leetcode_easy\705. design hashset\main.cpp(52): warning C4018: “>=”: 有符号/无符号不匹配
+  705. Design HashSet.vcxproj -> D:\3. Private\LeetCode\LeetCode Easy\LeetCode_Easy\Debug\705. Design HashSet.lib

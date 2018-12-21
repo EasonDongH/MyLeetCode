@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\3. private\leetcode\leetcode easy\leetcode_easy\447_numbersofboomeranges\main.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+d:\3. private\leetcode\leetcode easy\leetcode_easy\447_numbersofboomeranges\main.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+  447_NumbersOfBoomeranges.vcxproj -> D:\3. Private\LeetCode\LeetCode Easy\LeetCode_Easy\Debug\447_NumbersOfBoomeranges.exe
