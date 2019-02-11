@@ -21,15 +21,45 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="UT-957.cpp">
+    <ClCompile Include="UT_960.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="UT_960.cpp">
+    <ClCompile Include="UT_962.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_967.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_966.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_957.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_969.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_974.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_12.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -154,6 +154,7 @@
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="TreeHelp.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -162,14 +163,25 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="UT-705.cpp" />
-    <ClCompile Include="UT-706.cpp" />
-    <ClCompile Include="UT-707.cpp" />
-    <ClCompile Include="UT-734.cpp" />
-    <ClCompile Include="UT_746cpp.cpp" />
+    <ClCompile Include="UT_705.cpp" />
+    <ClCompile Include="UT_706.cpp" />
+    <ClCompile Include="UT_707.cpp" />
+    <ClCompile Include="UT_734.cpp" />
+    <ClCompile Include="UT_746.cpp" />
     <ClCompile Include="UT_748.cpp" />
     <ClCompile Include="UT_754.cpp" />
     <ClCompile Include="UT_766.cpp" />
+    <ClCompile Include="UT_811.cpp" />
+    <ClCompile Include="UT_819.cpp" />
+    <ClCompile Include="UT_821.cpp" />
+    <ClCompile Include="UT_840.cpp" />
+    <ClCompile Include="UT_849.cpp" />
+    <ClCompile Include="UT_859.cpp" />
+    <ClCompile Include="UT_872.cpp" />
+    <ClCompile Include="UT_874.cpp" />
+    <ClCompile Include="UT_893.cpp" />
+    <ClCompile Include="UT_896.cpp" />
+    <ClCompile Include="UT_984.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

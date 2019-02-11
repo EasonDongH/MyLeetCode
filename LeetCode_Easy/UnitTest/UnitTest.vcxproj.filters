@@ -21,24 +21,12 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="TreeHelp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="UT-705.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="UT-706.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="UT-707.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="UT-734.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="UT_746cpp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="UT_748.cpp">
@@ -48,6 +36,54 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="UT_766.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_811.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_705.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_706.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_707.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_734.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_746.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_819.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_821.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_840.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_849.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_859.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_872.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_874.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_893.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_896.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_984.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
