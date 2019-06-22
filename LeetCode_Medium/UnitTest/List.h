@@ -23,6 +23,15 @@ ListNode* CreateList(const vector<int>& list)
 	return head;
 }
 
+vector<int> ConvertListToVector(ListNode* head) {
+	vector<int> ans;
+	while (head != nullptr) {
+		ans.push_back(head->val);
+		head = head->next;
+	}
+	return ans;
+}
+
 void deleteAllNode(ListNode* head)
 {
 	while (head)

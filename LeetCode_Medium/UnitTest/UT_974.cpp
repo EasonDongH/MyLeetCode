@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "CppUnitTest.h"
 #include "../974. Subarray Sums Divisible by K/Solution.cpp"
+#include <vector>
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
 namespace UnitTest

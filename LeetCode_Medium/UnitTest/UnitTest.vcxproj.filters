@@ -62,5 +62,50 @@
     <ClCompile Include="UT_12.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="UT_1031.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_1029.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_1034.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_18.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_22.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_24.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_25.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_1046.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_1047.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_1048.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_1052.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_1054.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_33.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_36.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_43.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

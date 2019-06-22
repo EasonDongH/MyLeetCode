@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "CppUnitTest.h"
-#include "../2. Add Two Numbers/Solution.cpp"
-#include "List.h"
+//#include "../2. Add Two Numbers/Solution.cpp"
+//#include "List.h"
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
 namespace UnitTest

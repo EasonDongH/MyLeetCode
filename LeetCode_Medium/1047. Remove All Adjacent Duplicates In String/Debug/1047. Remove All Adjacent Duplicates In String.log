@@ -1,0 +1,4 @@
+﻿  1047. Remove All Adjacent Duplicates In String.cpp
+C:\2. GitHub\MyLeetCode\LeetCode_Medium\1047. Remove All Adjacent Duplicates In String\1047. Remove All Adjacent Duplicates In String.cpp(7): warning C4018: “<”: 有符号/无符号不匹配
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+C:\2. GitHub\MyLeetCode\LeetCode_Medium\Debug\1047. Remove All Adjacent Duplicates In String.exe : fatal error LNK1120: 1 个无法解析的外部命令

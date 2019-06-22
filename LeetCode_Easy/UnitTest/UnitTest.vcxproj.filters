@@ -86,5 +86,11 @@
     <ClCompile Include="UT_984.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="UT_1005.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_1006.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
