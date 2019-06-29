@@ -1,2 +1,36 @@
-﻿  UT_43.cpp
-  UnitTest.vcxproj -> C:\2. GitHub\MyLeetCode\LeetCode_Medium\Debug\UnitTest.dll
+﻿  stdafx.cpp
+  UT_1029.cpp
+  UT_1031.cpp
+  UT_1034.cpp
+  UT_1046.cpp
+  UT_1047.cpp
+  UT_1048.cpp
+  UT_1052.cpp
+  UT_1054.cpp
+  UT_1093.cpp
+C:\GitHub\MyLeetCode\LeetCode_Medium\1093. Statistics from a Large Sample\1093. Statistics from a Large Sample.cpp(22,14): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\GitHub\MyLeetCode\LeetCode_Medium\1093. Statistics from a Large Sample\1093. Statistics from a Large Sample.cpp(28,14): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+  UT_12.cpp
+  UT_18.cpp
+  UT_2.cpp
+  UT_22.cpp
+  UT_24.cpp
+  UT_25.cpp
+  UT_33.cpp
+  UT_36.cpp
+  UT_43.cpp
+  UT_6.cpp
+  UT_8.cpp
+  正在生成代码...
+  正在编译...
+  UT_974.cpp
+  UT_957.cpp
+  UT_960.cpp
+  UT_962.cpp
+  UT_966.cpp
+  UT_967.cpp
+  UT_969.cpp
+  正在生成代码...
+C:\GitHub\MyLeetCode\LeetCode_Medium\1093. Statistics from a Large Sample\1093. Statistics from a Large Sample.cpp(50,14): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+    正在创建库 C:\GitHub\MyLeetCode\LeetCode_Medium\Debug\UnitTest.lib 和对象 C:\GitHub\MyLeetCode\LeetCode_Medium\Debug\UnitTest.exp
+  UnitTest.vcxproj -> C:\GitHub\MyLeetCode\LeetCode_Medium\Debug\UnitTest.dll

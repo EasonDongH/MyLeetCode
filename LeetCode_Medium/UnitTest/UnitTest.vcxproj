@@ -171,6 +171,7 @@
     <ClCompile Include="UT_1048.cpp" />
     <ClCompile Include="UT_1052.cpp" />
     <ClCompile Include="UT_1054.cpp" />
+    <ClCompile Include="UT_1093.cpp" />
     <ClCompile Include="UT_12.cpp" />
     <ClCompile Include="UT_18.cpp" />
     <ClCompile Include="UT_2.cpp" />

@@ -1,7 +1,7 @@
 ﻿// 25. Reverse Nodes in k-Group.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 //
 #include <bits/stdc++.h>
-#include "C:\2. GitHub\MyLeetCode\LeetCode_Medium\UnitTest\List.h"
+#include "C:\GitHub\MyLeetCode\LeetCode_Medium\UnitTest\List.h"
 
 class Solution {
 	ListNode* reverseK(ListNode* node, int k) {
