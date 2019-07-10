@@ -23,7 +23,7 @@
     <ProjectGuid>{2345A49E-2DC9-4D81-848D-FDE6A1A99A79}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My1052GrumpyBookstoreOwner</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

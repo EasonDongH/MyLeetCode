@@ -23,7 +23,7 @@
     <ProjectGuid>{49927748-3934-4D15-9DC4-321C557BD229}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My43MultiplyStrings</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

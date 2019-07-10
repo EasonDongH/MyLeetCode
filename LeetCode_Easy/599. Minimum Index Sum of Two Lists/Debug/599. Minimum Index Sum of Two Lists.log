@@ -1,4 +1,4 @@
 ﻿  main.cpp
-d:\3. private\leetcode\leetcode easy\leetcode_easy\599. minimum index sum of two lists\main.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
-d:\3. private\leetcode\leetcode easy\leetcode_easy\599. minimum index sum of two lists\main.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
-  599. Minimum Index Sum of Two Lists.vcxproj -> D:\3. Private\LeetCode\LeetCode Easy\LeetCode_Easy\Debug\599. Minimum Index Sum of Two Lists.exe
+C:\GitHub\MyLeetCode\LeetCode_Easy\599. Minimum Index Sum of Two Lists\main.cpp(12,20): warning C4018:  “<”: 有符号/无符号不匹配
+C:\GitHub\MyLeetCode\LeetCode_Easy\599. Minimum Index Sum of Two Lists\main.cpp(15,20): warning C4018:  “<”: 有符号/无符号不匹配
+  599. Minimum Index Sum of Two Lists.vcxproj -> C:\GitHub\MyLeetCode\LeetCode_Easy\Debug\599. Minimum Index Sum of Two Lists.exe

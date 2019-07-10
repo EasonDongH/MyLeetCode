@@ -1,4 +1,4 @@
 ﻿  main.cpp
-d:\3. private\leetcode\leetcode easy\leetcode_easy\703. kth largest element in a stream\main.cpp(16): warning C4018: “<=”: 有符号/无符号不匹配
-d:\3. private\leetcode\leetcode easy\leetcode_easy\703. kth largest element in a stream\main.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
-  703. Kth Largest Element in a Stream.vcxproj -> D:\3. Private\LeetCode\LeetCode Easy\LeetCode_Easy\Debug\703. Kth Largest Element in a Stream.exe
+C:\GitHub\MyLeetCode\LeetCode_Easy\703. Kth Largest Element in a Stream\main.cpp(16,9): warning C4018:  “<=”: 有符号/无符号不匹配
+C:\GitHub\MyLeetCode\LeetCode_Easy\703. Kth Largest Element in a Stream\main.cpp(21,21): warning C4018:  “<”: 有符号/无符号不匹配
+  703. Kth Largest Element in a Stream.vcxproj -> C:\GitHub\MyLeetCode\LeetCode_Easy\Debug\703. Kth Largest Element in a Stream.exe

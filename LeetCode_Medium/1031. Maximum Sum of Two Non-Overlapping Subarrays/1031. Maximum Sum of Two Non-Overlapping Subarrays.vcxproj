@@ -23,7 +23,7 @@
     <ProjectGuid>{EE792FE8-5766-4C88-A750-67BDF8C4FC9E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My1031MaximumSumofTwoNonOverlappingSubarrays</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

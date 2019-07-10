@@ -21,8 +21,8 @@ private:
 	}
 public:
 	string mostCommonWord(string paragraph, vector<string>& banned) {
-		unordered_set<string> us_s;
-		for (auto b : banned)
+		//unordered_set<string> us_s;
+		/*for (auto b : banned)
 			us_s.insert(b);
 
 		vector<string> words = split(paragraph);
@@ -38,7 +38,7 @@ public:
 				max_cnt = m.second;
 				ans = m.first;
 			}
-
-		return ans;
+			*/
+		return "";
 	}
 };

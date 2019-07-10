@@ -1,0 +1,8 @@
+﻿  1104. Path In Zigzag Labelled Binary Tree.cpp
+C:\GitHub\MyLeetCode\LeetCode_Easy\1104. Path In Zigzag Labelled Binary Tree\1104. Path In Zigzag Labelled Binary Tree.cpp(15,16): warning C4244:  “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\GitHub\MyLeetCode\LeetCode_Easy\1104. Path In Zigzag Labelled Binary Tree\1104. Path In Zigzag Labelled Binary Tree.cpp(15,16): warning C4244:         with
+C:\GitHub\MyLeetCode\LeetCode_Easy\1104. Path In Zigzag Labelled Binary Tree\1104. Path In Zigzag Labelled Binary Tree.cpp(15,16): warning C4244:         [
+C:\GitHub\MyLeetCode\LeetCode_Easy\1104. Path In Zigzag Labelled Binary Tree\1104. Path In Zigzag Labelled Binary Tree.cpp(15,16): warning C4244:             _Ty=int
+C:\GitHub\MyLeetCode\LeetCode_Easy\1104. Path In Zigzag Labelled Binary Tree\1104. Path In Zigzag Labelled Binary Tree.cpp(15,16): warning C4244:         ]
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+C:\GitHub\MyLeetCode\LeetCode_Easy\Debug\1104. Path In Zigzag Labelled Binary Tree.exe : fatal error LNK1120: 1 个无法解析的外部命令

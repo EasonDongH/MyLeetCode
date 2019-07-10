@@ -1,3 +1,3 @@
 ﻿  main.cpp
-d:\3. private\leetcode\leetcode easy\leetcode_easy\628. maximum product of three numbers\main.cpp(70): warning C4715: “maximumProduct”: 不是所有的控件路径都返回值
-  628. Maximum Product of Three Numbers.vcxproj -> D:\3. Private\LeetCode\LeetCode Easy\LeetCode_Easy\Debug\628. Maximum Product of Three Numbers.exe
+  C:\GitHub\MyLeetCode\LeetCode_Easy\628. Maximum Product of Three Numbers\main.cpp(70) : warning C4715: “maximumProduct”: 不是所有的控件路径都返回值
+  628. Maximum Product of Three Numbers.vcxproj -> C:\GitHub\MyLeetCode\LeetCode_Easy\Debug\628. Maximum Product of Three Numbers.exe

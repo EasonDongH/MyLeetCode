@@ -23,7 +23,7 @@
     <ProjectGuid>{C85B0EFB-FCE7-4161-AA33-17FC55ACFE05}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>UnitTest</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
     <ProjectSubType>NativeUnitTestProject</ProjectSubType>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -181,6 +181,7 @@
     <ClCompile Include="UT_33.cpp" />
     <ClCompile Include="UT_36.cpp" />
     <ClCompile Include="UT_43.cpp" />
+    <ClCompile Include="UT_5.cpp" />
     <ClCompile Include="UT_6.cpp" />
     <ClCompile Include="UT_8.cpp" />
     <ClCompile Include="UT_974.cpp" />

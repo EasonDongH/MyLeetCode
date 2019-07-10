@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "43. Multiply Strings", "43.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1093. Statistics from a Large Sample", "1093. Statistics from a Large Sample\1093. Statistics from a Large Sample.vcxproj", "{F2778227-A4F6-4439-9B6F-3C987F1B0CFB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5. Longest Palindromic Substring", "5. Longest Palindromic Substring\5. Longest Palindromic Substring.vcxproj", "{F2483FF3-8674-4EBB-A5A7-855D4B835ACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -301,6 +303,14 @@ Global
 		{F2778227-A4F6-4439-9B6F-3C987F1B0CFB}.Release|x64.Build.0 = Release|x64
 		{F2778227-A4F6-4439-9B6F-3C987F1B0CFB}.Release|x86.ActiveCfg = Release|Win32
 		{F2778227-A4F6-4439-9B6F-3C987F1B0CFB}.Release|x86.Build.0 = Release|Win32
+		{F2483FF3-8674-4EBB-A5A7-855D4B835ACC}.Debug|x64.ActiveCfg = Debug|x64
+		{F2483FF3-8674-4EBB-A5A7-855D4B835ACC}.Debug|x64.Build.0 = Debug|x64
+		{F2483FF3-8674-4EBB-A5A7-855D4B835ACC}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2483FF3-8674-4EBB-A5A7-855D4B835ACC}.Debug|x86.Build.0 = Debug|Win32
+		{F2483FF3-8674-4EBB-A5A7-855D4B835ACC}.Release|x64.ActiveCfg = Release|x64
+		{F2483FF3-8674-4EBB-A5A7-855D4B835ACC}.Release|x64.Build.0 = Release|x64
+		{F2483FF3-8674-4EBB-A5A7-855D4B835ACC}.Release|x86.ActiveCfg = Release|Win32
+		{F2483FF3-8674-4EBB-A5A7-855D4B835ACC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
