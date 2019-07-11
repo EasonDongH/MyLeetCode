@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\GitHub\MyLeetCode\LeetCode_Easy\447_NumbersOfBoomeranges\main.cpp(20,19): warning C4018:  “<”: 有符号/无符号不匹配
-C:\GitHub\MyLeetCode\LeetCode_Easy\447_NumbersOfBoomeranges\main.cpp(22,20): warning C4018:  “<”: 有符号/无符号不匹配
-  447_NumbersOfBoomeranges.vcxproj -> C:\GitHub\MyLeetCode\LeetCode_Easy\Debug\447_NumbersOfBoomeranges.exe

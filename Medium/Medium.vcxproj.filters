@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2. Add Two Numbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5. Longest Palindromic Substring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6. ZigZag Conversion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8. String to Integer (atoi).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12. Integer to Roman.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18. 4Sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22. Generate Parentheses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24. Swap Nodes in Pairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25. Reverse Nodes in k-Group.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33. Search in Rotated Sorted Array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36. Valid Sudoku.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43. Multiply Strings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="957. Prison Cells After N Days.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="960. Delete Columns to Make Sorted III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="962. Maximum Width Ramp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="966. Vowel Spellchecker.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="967. Numbers With Same Consecutive Differences.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="969. Pancake Sorting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="974. Subarray Sums Divisible by K.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="981. Time Based Key-Value Store.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1029. Two City Scheduling.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1031. Maximum Sum of Two Non-Overlapping Subarrays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1034. Coloring A Border.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1046. Last Stone Weight.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1047. Remove All Adjacent Duplicates In String.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1048. Longest String Chain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1052. Grumpy Bookstore Owner.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1054. Distant Barcodes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1093. Statistics from a Large Sample.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54. Spiral Matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

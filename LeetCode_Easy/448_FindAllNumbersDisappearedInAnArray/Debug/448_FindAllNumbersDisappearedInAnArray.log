@@ -1,5 +1,0 @@
-﻿  main.cpp
-C:\GitHub\MyLeetCode\LeetCode_Easy\448_FindAllNumbersDisappearedInAnArray\main.cpp(7,20): warning C4018:  “<”: 有符号/无符号不匹配
-C:\GitHub\MyLeetCode\LeetCode_Easy\448_FindAllNumbersDisappearedInAnArray\main.cpp(20,20): warning C4018:  “<”: 有符号/无符号不匹配
-C:\GitHub\MyLeetCode\LeetCode_Easy\448_FindAllNumbersDisappearedInAnArray\main.cpp(5,6): warning C4101:  “j”: 未引用的局部变量
-  448_FindAllNumbersDisappearedInAnArray.vcxproj -> C:\GitHub\MyLeetCode\LeetCode_Easy\Debug\448_FindAllNumbersDisappearedInAnArray.exe

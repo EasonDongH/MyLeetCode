@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\GitHub\MyLeetCode\LeetCode_Easy\643. Maximum Average Subarray I\main.cpp(5,2): warning C4018:  “<=”: 有符号/无符号不匹配
-C:\GitHub\MyLeetCode\LeetCode_Easy\643. Maximum Average Subarray I\main.cpp(11,20): warning C4018:  “<”: 有符号/无符号不匹配
-  643. Maximum Average Subarray I.vcxproj -> C:\GitHub\MyLeetCode\LeetCode_Easy\Debug\643. Maximum Average Subarray I.exe

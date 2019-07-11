@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="UT_705.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_706.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_707.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_734.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_746.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_748.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_754.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_766.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_811.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_819.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_821.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_840.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_849.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_859.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_872.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_874.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_893.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_896.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_984.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_1005.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_1006.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UT_1104.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
