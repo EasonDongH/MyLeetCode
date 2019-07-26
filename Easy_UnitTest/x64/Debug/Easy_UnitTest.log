@@ -1,0 +1,43 @@
+﻿  stdafx.cpp
+  UT_1005.cpp
+  UT_1006.cpp
+  UT_1104.cpp
+e:\github\myleetcode\easy_unittest\ut_1104.cpp(19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  UT_705.cpp
+e:\github\myleetcode\easy\705. design hashset.cpp(37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  UT_706.cpp
+  UT_707.cpp
+  UT_734.cpp
+  UT_746.cpp
+e:\github\myleetcode\easy\746. min cost climbing stairs.cpp(7): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  UT_748.cpp
+  UT_754.cpp
+  UT_766.cpp
+e:\github\myleetcode\easy\766. toeplitz matrix.cpp(15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  UT_811.cpp
+  UT_819.cpp
+  UT_821.cpp
+e:\github\myleetcode\easy\821. shortest distance to a character.cpp(27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\github\myleetcode\easy_unittest\ut_821.cpp(20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  UT_840.cpp
+  UT_849.cpp
+e:\github\myleetcode\easy\849. maximize distance to closest person.cpp(7): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  UT_859.cpp
+e:\github\myleetcode\easy\859. buddy strings.cpp(7): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  UT_872.cpp
+e:\github\myleetcode\base\tree.h(15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\github\myleetcode\easy\872. leaf-similar trees.cpp(35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  UT_874.cpp
+e:\github\myleetcode\easy\874. walking robot simulation.cpp(8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\github\myleetcode\easy\874. walking robot simulation.cpp(12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  UT_893.cpp
+e:\github\myleetcode\easy\893. groups of special-equivalent strings.cpp(7): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\github\myleetcode\easy\893. groups of special-equivalent strings.cpp(43): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  UT_896.cpp
+e:\github\myleetcode\easy\896. monotonic array.cpp(7): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  UT_984.cpp
+  正在生成代码...
+    正在创建库 E:\GitHub\MyLeetCode\x64\Debug\Easy_UnitTest.lib 和对象 E:\GitHub\MyLeetCode\x64\Debug\Easy_UnitTest.exp
+  Easy_UnitTest.vcxproj -> E:\GitHub\MyLeetCode\x64\Debug\Easy_UnitTest.dll

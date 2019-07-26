@@ -9,6 +9,7 @@
   UT_1054.cpp
   UT_1093.cpp
   UT_54.cpp
+  UT_60.cpp
   UT_957.cpp
   UT_960.cpp
   UT_962.cpp
@@ -30,5 +31,5 @@
   UT_6.cpp
   UT_8.cpp
   正在生成代码...
-    正在创建库 E:\WorkSpace\MyLeetCode\Debug\Medium_UnitTest.lib 和对象 E:\WorkSpace\MyLeetCode\Debug\Medium_UnitTest.exp
-  Medium_UnitTest.vcxproj -> E:\WorkSpace\MyLeetCode\Debug\Medium_UnitTest.dll
+    正在创建库 E:\GitHub\MyLeetCode\Debug\Medium_UnitTest.lib 和对象 E:\GitHub\MyLeetCode\Debug\Medium_UnitTest.exp
+  Medium_UnitTest.vcxproj -> E:\GitHub\MyLeetCode\Debug\Medium_UnitTest.dll
